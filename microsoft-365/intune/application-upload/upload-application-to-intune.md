@@ -16,7 +16,7 @@ In this KB specifically, we will be using our previously created .intunewin wrap
 
 Article for that will be in the link below
 
-{% embed url="https://app.gitbook.com/o/2mIS1DZ5tiCeMulycQRc/s/Nd1kg8pQ1SIiRF58IH9i/~/changes/49/microsoft-365/intune/application-upload/prepping-the-intune-file" fullWidth="false" %}
+{% embed url="https://kb.frxst.dev/microsoft-365/intune/application-upload/prepping-the-intune-file" %}
 
 Access to site's Intune.
 
